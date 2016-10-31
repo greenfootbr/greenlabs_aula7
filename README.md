@@ -10,6 +10,8 @@ Nesta aula nós vamos mostrar alguns novo truques sobre como podemos descobrir e
 * Como criar imagens e formas apenas com classes do greenfoot.
 * Como planejar a construção de novas funcionalidades
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://www.youtube.com/watch?v=tYGmhC2GWf8)
 
 ## Equipe | Team
 
